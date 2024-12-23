@@ -1,0 +1,58 @@
+[
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "showHeader",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00005",
+    "version": "0001",
+    "attribute": "alignContent",
+    "grouping": "Properties",
+    "value": "Center"
+  },
+  {
+    "field_id": "00005",
+    "version": "0001",
+    "attribute": "alignItems",
+    "grouping": "Properties",
+    "value": "Center"
+  },
+  {
+    "field_id": "00005",
+    "version": "0001",
+    "attribute": "fitContainer",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00005",
+    "version": "0001",
+    "attribute": "justifyContent",
+    "grouping": "Properties",
+    "value": "Center"
+  },
+  {
+    "field_id": "00005",
+    "version": "0001",
+    "attribute": "renderType",
+    "grouping": "Properties",
+    "value": "Bare"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "size",
+    "grouping": "Properties",
+    "value": "15rem"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "src",
+    "grouping": "Properties",
+    "value": "sap-icon://nep/neptune-connect"
+  }
+]

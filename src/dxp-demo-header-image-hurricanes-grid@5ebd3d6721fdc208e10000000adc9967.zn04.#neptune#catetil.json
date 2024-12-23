@@ -1,0 +1,22 @@
+[
+  {
+    "guid": "5EBD3D6721FDC208E10000000ADC9967",
+    "guid_tile": "070E406779104860E10000000ADC9967",
+    "sort": 3
+  },
+  {
+    "guid": "5EBD3D6721FDC208E10000000ADC9967",
+    "guid_tile": "23523F67E0F52076E10000000ADC9967",
+    "sort": 4
+  },
+  {
+    "guid": "5EBD3D6721FDC208E10000000ADC9967",
+    "guid_tile": "AB0D406779104860E10000000ADC9967",
+    "sort": 1
+  },
+  {
+    "guid": "5EBD3D6721FDC208E10000000ADC9967",
+    "guid_tile": "AF393B67C292023BE10000000ADC9967",
+    "sort": 2
+  }
+]

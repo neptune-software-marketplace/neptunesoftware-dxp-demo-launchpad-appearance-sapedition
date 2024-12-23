@@ -1,0 +1,15 @@
+[
+  {
+    "guid": "F5944C677D754860E10000000ADC9967",
+    "name": "dxp-demo-mask-custom-center",
+    "hd_fil_bright": 0.00,
+    "hd_fil_gray": 0.00,
+    "hd_fil_hue": 0.00,
+    "hd_fil_invert": 0.00,
+    "hd_fil_opacity": 0.00,
+    "hd_fil_saturate": 0.00,
+    "hd_mask_img": "C",
+    "hd_mask_custom": "radial-gradient(circle, transparent 24%, rgba(0,0,0,1) 75%)",
+    "head_text_align": "center"
+  }
+]

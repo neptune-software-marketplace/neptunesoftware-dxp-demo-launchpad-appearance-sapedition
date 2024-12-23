@@ -1,0 +1,73 @@
+:root .nepDxpDemoNews {
+    --gridHeight: 0;
+}
+/*
+.nepCat58FD5A67DA7D2076E10000000ADC9967 {
+    padding: 0;
+}
+*/
+.nepTileShort .nepFCardIconAbove {
+    margin-bottom: .5rem;
+}
+.nepThemeDark .nepDxpDemoCustomStyle .nepFCard.sapFCard .sapFCardSubtitle {
+    color: lightgreen;
+}
+.nepDxpDemoSectionMarginTop {
+    margin-top: 1rem;
+}
+/*.nepDxpDemoSectionTeamsSkinnyTiny .nepFCard.sapFCard {
+    background: none;
+    border: none;
+    box-shadow: none;
+}*/
+.nepDxpDemoSectionTeamsSkinnyTiny .nepTileTiny .nepTileImage {
+    width: auto;
+    height: 3.5rem;
+}
+.nepXSmall .nepDxpDemoSectionTeamsSkinnyTiny .nepTileTiny .nepTileImage,
+.nepSmall .nepDxpDemoSectionTeamsSkinnyTiny .nepTileTiny .nepTileImage {
+    width: auto;
+    height: 2.5rem;
+}
+.nepXSmall .nepDxpDemoSectionSmallCentered,
+.nepSmall .nepDxpDemoSectionSmallCentered {
+    border-radius: 0;
+}
+.nepDxpDemoSectionSmallCentered {
+    border-radius: 1rem;
+}
+.nepLayout .nepGrid .nepDxpDemoNewsMaster.nepFCardContainer {
+    min-height: 240px;
+}
+.nepDxpDemoNewsMaster .sapFCard {
+    flex-direction: column-reverse;
+}
+.nepDxpDemoNewsMaster .sapFCard .sapFCardHeader {
+    margin-bottom: 1rem;
+}
+.nepDxpDemoSectionTeamsNarrowShort .nepTileShort .nepTileImage,
+.nepDxpDemoSectionTeamsSmallSmall .nepTileImage {
+    width: auto;
+    height: 3rem;
+}
+.nepDxpDemoSectionBackgroundImage .nepFCardContainer {
+    height: 220px;
+}
+.nepDxpDemoTileBackgroundImage.nepFCardContainer {
+    height: 180px;
+}
+.nepLayout .nepDxpDemoSectionHeaderHurricanesLogo .nepGroupHeaderImageContent {
+    width: calc(100% - 2rem);
+}
+.nepDxpDemoGridNoPaddingTop.nepGrid {
+    padding-top: 0;
+}
+.nepDxpDemoGridNoPaddingBottom.nepGrid {
+    padding-bottom: 0;
+}
+.nepGroupHeaderMessage {
+    display: none;
+}
+.nepDxpDemoHelp .nepGroupHeaderMessage {
+    display: flex;
+}

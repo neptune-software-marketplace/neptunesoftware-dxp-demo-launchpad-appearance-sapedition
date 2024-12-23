@@ -1,0 +1,25 @@
+[
+  {
+    "app_appcache": "NEPTUNE_LAUNCHPAD_STANDARD",
+    "enable_passcode": "X",
+    "passcode_tries": "5",
+    "pg_app_name": "Neptune Demo Appearance",
+    "pg_app_version": "24.10.0",
+    "pg_i_data_type": "X",
+    "app_web": "X",
+    "use_menu": "X",
+    "push_provider": "P",
+    "hide_side_menu": "X",
+    "pdfview_exclude": "X",
+    "visible_all": "X",
+    "global_style": "neptune_demo_appearance.zn03.#neptune#appcach.css",
+    "open_apps_header": "X",
+    "horizontal_menu": "X",
+    "no_remote_debug": "X",
+    "notif_interval": "300",
+    "no_submenu_hover": "X",
+    "disable_tile_chg": "X",
+    "fallback_langu": "E",
+    "sqlite_type": 0
+  }
+]

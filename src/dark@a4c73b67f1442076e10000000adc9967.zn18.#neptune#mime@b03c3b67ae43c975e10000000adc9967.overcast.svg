@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="overcast" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <circle cx="25" cy="25" r="14" style="fill: #eaecee;"/>
+  <line x1="25" y1="8" x2="25" y2="2" style="fill: none; stroke: #eaecee; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="42" y1="25" x2="48" y2="25" style="fill: none; stroke: #eaecee; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="39.4" y1="15.5" x2="44.6" y2="12.5" style="fill: none; stroke: #eaecee; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="32.5" y1="9.6" x2="35.5" y2="4.4" style="fill: none; stroke: #eaecee; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="25" y1="42" x2="25" y2="48" style="fill: none; stroke: #eaecee; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="34.5" y1="39.4" x2="37.5" y2="44.6" style="fill: none; stroke: #eaecee; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="40.4" y1="32.5" x2="45.6" y2="35.5" style="fill: none; stroke: #eaecee; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="25" y1="42" x2="25" y2="48" style="fill: none; stroke: #eaecee; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="8" y1="25" x2="2" y2="25" style="fill: none; stroke: #eaecee; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="10.6" y1="34.5" x2="5.4" y2="37.5" style="fill: none; stroke: #eaecee; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="17.5" y1="40.4" x2="14.5" y2="45.6" style="fill: none; stroke: #eaecee; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="8" y1="25" x2="2" y2="25" style="fill: none; stroke: #eaecee; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="15.5" y1="10.6" x2="12.5" y2="5.4" style="fill: none; stroke: #eaecee; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="9.6" y1="17.5" x2="4.4" y2="14.5" style="fill: none; stroke: #eaecee; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M53.35,38.22c.42-1.33.65-2.75.65-4.22,0-7.73-6.27-14-14-14-7.09,0-12.94,5.28-13.86,12.12-1.7-1.32-3.82-2.12-6.14-2.12-5.52,0-10,4.48-10,10,0,1.05.16,2.05.46,3-5.78.02-10.46,4.71-10.46,10.5s4.7,10.5,10.5,10.5h40.5c7.18,0,13-5.82,13-13,0-6.38-4.59-11.67-10.65-12.78Z" style="fill: #ff9c33;"/>
+</svg>

@@ -1,0 +1,27 @@
+[
+  {
+    "guid": "070E406779104860E10000000ADC9967",
+    "name": "dxp-demo-news-ticker-chilly",
+    "activated": "true",
+    "tile_icon": "sap-icon://fas/temperature-half",
+    "tile_title": "Tomorrow will be chilly",
+    "tile_infostate": "None",
+    "sort": "00000",
+    "visible_all": "true",
+    "url_window": "false",
+    "sap_trans_window": "false",
+    "parent": "00000000000000000000000000000000",
+    "category": "00000000000000000000000000000000",
+    "timestamp": 0,
+    "url_alias": "00000000000000000000000000000000",
+    "no_action": "false",
+    "tilegroup": "00000000000000000000000000000000",
+    "back_width": "Small",
+    "action_type": "noaction",
+    "msgno": "000",
+    "tile_height": "Tiny",
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000",
+    "icon_placement": "AlignLeft"
+  }
+]

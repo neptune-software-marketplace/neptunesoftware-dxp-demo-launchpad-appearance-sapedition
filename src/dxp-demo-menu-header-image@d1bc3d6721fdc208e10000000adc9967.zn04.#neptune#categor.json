@@ -1,0 +1,17 @@
+[
+  {
+    "guid": "D1BC3D6721FDC208E10000000ADC9967",
+    "name": "dxp-demo-menu-header-image",
+    "descr": "dxp-demo-menu-header-image",
+    "sort": 0,
+    "back_type": "cards",
+    "hide_header": "X",
+    "tiles_row": 99,
+    "visible_all": "X",
+    "menu_text": "HEADER IMAGE",
+    "default_mostused": 0,
+    "fiori_style": "X",
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000"
+  }
+]

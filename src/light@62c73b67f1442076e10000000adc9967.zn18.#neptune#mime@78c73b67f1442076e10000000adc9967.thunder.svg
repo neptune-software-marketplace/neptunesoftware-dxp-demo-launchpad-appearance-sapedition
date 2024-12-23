@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="thunder" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <path d="M53.35,17.97c.42-1.33.65-2.75.65-4.22,0-7.73-6.27-14-14-14-7.09,0-12.94,5.28-13.86,12.12-1.7-1.32-3.82-2.12-6.14-2.12-5.52,0-10,4.48-10,10,0,1.05.16,2.05.46,3-5.78.02-10.46,4.71-10.46,10.5s4.7,10.5,10.5,10.5h40.5c7.18,0,13-5.82,13-13,0-6.38-4.59-11.67-10.65-12.78Z" style="fill: #ff9c33;"/>
+  <line x1="52" y1="40.75" x2="46" y2="50.75" style="fill: none; stroke: #424242; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="40" y1="40.75" x2="34" y2="50.75" style="fill: none; stroke: #424242; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="52" y1="51.75" x2="46" y2="61.75" style="fill: none; stroke: #424242; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="40" y1="51.75" x2="34" y2="61.75" style="fill: none; stroke: #424242; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M19,50h-9.78c-.56,0-.92-.59-.67-1.09l8.67-17.34c.17-.35.53-.57.92-.57h12.06c.56,0,.9.63.59,1.09l-11.78,17.91Z" style="fill: #424242;"/>
+  <path d="M11.34,63h-.94c-.3,0-.5-.32-.36-.59l8.16-16.41h11.39c.37,0,.55.47.27.72l-17.83,16.02c-.19.17-.43.26-.69.26Z" style="fill: #424242;"/>
+</svg>

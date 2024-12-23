@@ -1,0 +1,14 @@
+[
+  {
+    "enable_notif": "X",
+    "tfa_validity": 0,
+    "bdc_show_process": "E",
+    "pg_patch_version": "000000000000",
+    "patch_version": "024100000",
+    "footer": "NEPTUNE_DEMO_APPEARANCE_FOOTER",
+    "layout_light": "26556567B8341366E10000000ADC9967",
+    "layout_dark": "NEPTUNE_HORIZON_DARK",
+    "enable_system_theme": "X",
+    "csrf_validity": 0
+  }
+]

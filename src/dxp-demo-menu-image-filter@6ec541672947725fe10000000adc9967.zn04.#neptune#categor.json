@@ -1,0 +1,17 @@
+[
+  {
+    "guid": "6EC541672947725FE10000000ADC9967",
+    "descr": "dxp-demo-menu-image-filter",
+    "sort": 0,
+    "back_type": "cards",
+    "hide_header": "X",
+    "tiles_row": 99,
+    "visible_all": "X",
+    "tiles_pr_row": "More",
+    "menu_text": "IMAGE FILTER",
+    "default_mostused": 0,
+    "fiori_style": "X",
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000"
+  }
+]

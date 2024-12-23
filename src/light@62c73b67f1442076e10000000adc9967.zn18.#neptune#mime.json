@@ -1,0 +1,66 @@
+[
+  {
+    "name": "fog.svg",
+    "parent": "62C73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     2",
+    "guid": "72C73B67F1442076E10000000ADC9967",
+    "file_name": "light@62c73b67f1442076e10000000adc9967.zn18.#neptune#mime@72c73b67f1442076e10000000adc9967.fog.svg"
+  },
+  {
+    "name": "hail.svg",
+    "parent": "62C73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     1",
+    "guid": "73C73B67F1442076E10000000ADC9967",
+    "file_name": "light@62c73b67f1442076e10000000adc9967.zn18.#neptune#mime@73c73b67f1442076e10000000adc9967.hail.svg"
+  },
+  {
+    "name": "overcast.svg",
+    "parent": "62C73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     3",
+    "guid": "74C73B67F1442076E10000000ADC9967",
+    "file_name": "light@62c73b67f1442076e10000000adc9967.zn18.#neptune#mime@74c73b67f1442076e10000000adc9967.overcast.svg"
+  },
+  {
+    "name": "rain.svg",
+    "parent": "62C73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     2",
+    "guid": "75C73B67F1442076E10000000ADC9967",
+    "file_name": "light@62c73b67f1442076e10000000adc9967.zn18.#neptune#mime@75c73b67f1442076e10000000adc9967.rain.svg"
+  },
+  {
+    "name": "snow.svg",
+    "parent": "62C73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     3",
+    "guid": "76C73B67F1442076E10000000ADC9967",
+    "file_name": "light@62c73b67f1442076e10000000adc9967.zn18.#neptune#mime@76c73b67f1442076e10000000adc9967.snow.svg"
+  },
+  {
+    "name": "sun.svg",
+    "parent": "62C73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     2",
+    "guid": "77C73B67F1442076E10000000ADC9967",
+    "file_name": "light@62c73b67f1442076e10000000adc9967.zn18.#neptune#mime@77c73b67f1442076e10000000adc9967.sun.svg"
+  },
+  {
+    "name": "thunder.svg",
+    "parent": "62C73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     1",
+    "guid": "78C73B67F1442076E10000000ADC9967",
+    "file_name": "light@62c73b67f1442076e10000000adc9967.zn18.#neptune#mime@78c73b67f1442076e10000000adc9967.thunder.svg"
+  },
+  {
+    "name": "wind.svg",
+    "parent": "62C73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     1",
+    "guid": "79C73B67F1442076E10000000ADC9967",
+    "file_name": "light@62c73b67f1442076e10000000adc9967.zn18.#neptune#mime@79c73b67f1442076e10000000adc9967.wind.svg"
+  }
+]

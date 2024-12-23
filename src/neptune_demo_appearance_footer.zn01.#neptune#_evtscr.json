@@ -1,0 +1,27 @@
+[
+  {
+    "field_id": "00008",
+    "event": "press",
+    "file_name": "neptune_demo_appearance_footer.zn01.#neptune#_evtscr.btnCookies.00008.press.js"
+  },
+  {
+    "field_id": "00012",
+    "event": "press",
+    "file_name": "neptune_demo_appearance_footer.zn01.#neptune#_evtscr.btnAccessibility.00012.press.js"
+  },
+  {
+    "field_id": "00013",
+    "event": "press",
+    "file_name": "neptune_demo_appearance_footer.zn01.#neptune#_evtscr.btnSecurity.00013.press.js"
+  },
+  {
+    "field_id": "00014",
+    "event": "press",
+    "file_name": "neptune_demo_appearance_footer.zn01.#neptune#_evtscr.btnPrivacy.00014.press.js"
+  },
+  {
+    "field_id": "00015",
+    "event": "press",
+    "file_name": "neptune_demo_appearance_footer.zn01.#neptune#_evtscr.btnLegal.00015.press.js"
+  }
+]

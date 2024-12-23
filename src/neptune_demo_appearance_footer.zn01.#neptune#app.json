@@ -1,0 +1,14 @@
+[
+  {
+    "app_type": "A",
+    "descr": "Launchpad Footer",
+    "descr_mc": "LAUNCHPAD FOOTER",
+    "library": "5",
+    "ui5_m": "X",
+    "origin": "024100001",
+    "sqlite_type": 0,
+    "i18n_local": "X",
+    "fallback_locale": "en",
+    "supported_locales": "\"en\""
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "guid": "221E406779104860E10000000ADC9967",
+    "name": "dxp-demo-news-stories",
+    "descr": "dxp-demo-news-stories",
+    "sort": 0,
+    "back_type": "cards",
+    "hide_header": "X",
+    "styleclass": "nepDxpDemoGridNoPaddingTop",
+    "tiles_row": 99,
+    "visible_all": "X",
+    "default_mostused": 0,
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "guid": "D1BC3D6721FDC208E10000000ADC9967",
+    "guid_tilegroup": "5BB73F678F753A31E10000000ADC9967",
+    "sort": 2
+  },
+  {
+    "guid": "D1BC3D6721FDC208E10000000ADC9967",
+    "guid_tilegroup": "5EBD3D6721FDC208E10000000ADC9967",
+    "sort": 1
+  },
+  {
+    "guid": "D1BC3D6721FDC208E10000000ADC9967",
+    "guid_tilegroup": "82B73F678F753A31E10000000ADC9967",
+    "sort": 3
+  }
+]

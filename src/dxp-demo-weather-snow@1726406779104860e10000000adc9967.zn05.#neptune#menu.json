@@ -1,0 +1,27 @@
+[
+  {
+    "guid": "1726406779104860E10000000ADC9967",
+    "name": "dxp-demo-weather-snow",
+    "activated": "true",
+    "tile_info": "Cold & White",
+    "tile_title": "Snow",
+    "tile_infostate": "None",
+    "sort": "00000",
+    "visible_all": "true",
+    "url_window": "false",
+    "sap_trans_window": "false",
+    "parent": "00000000000000000000000000000000",
+    "category": "00000000000000000000000000000000",
+    "timestamp": 0,
+    "url_alias": "00000000000000000000000000000000",
+    "no_action": "false",
+    "tilegroup": "00000000000000000000000000000000",
+    "tile_icon_image": "76C73B67F1442076E10000000ADC9967",
+    "action_type": "noaction",
+    "fiori_style": "X",
+    "msgno": "000",
+    "tile_icon_imaged": "B23C3B67AE43C975E10000000ADC9967",
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "guid": "7A3B3B67C292023BE10000000ADC9967",
+    "name": "dxp-demo-season-summer",
+    "activated": "true",
+    "tile_icon": "sap-icon://nep/value-help",
+    "tile_title": "But tomorrow may rain, so I’ll follow the sun",
+    "tile_infostate": "None",
+    "sort": "00000",
+    "visible_all": "true",
+    "url_window": "false",
+    "sap_trans_window": "false",
+    "parent": "00000000000000000000000000000000",
+    "category": "00000000000000000000000000000000",
+    "tile_backimage": "533C3B67AE43C975E10000000ADC9967",
+    "timestamp": 0,
+    "url_alias": "00000000000000000000000000000000",
+    "no_action": "false",
+    "tilegroup": "00000000000000000000000000000000",
+    "back_width": "Small",
+    "action_type": "noaction",
+    "fiori_style": "X",
+    "msgno": "000",
+    "tile_height": "Normal",
+    "tile_back_type": "T",
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000"
+  }
+]

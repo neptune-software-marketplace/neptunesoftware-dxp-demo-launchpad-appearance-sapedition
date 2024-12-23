@@ -1,0 +1,31 @@
+[
+  {
+    "guid": "C48FFB662FF7AC54E10000000ADC9967",
+    "name": "DXP Demo Hurricanes Dark",
+    "custom_css": "dxp demo hurricanes dark@c48ffb662ff7ac54e10000000adc9967.zn07.#neptune#cuslay.css",
+    "page_back_color": "transparent",
+    "page_back_image": "21C73B67F1442076E10000000ADC9967",
+    "shell_back_color": "transparent",
+    "scroll_width": "thin",
+    "statusbar_color": "Light",
+    "top_logo": "25C73B67F1442076E10000000ADC9967",
+    "top_logo_mobile": "25C73B67F1442076E10000000ADC9967",
+    "tile_layout": "00000000000000000000000000000000",
+    "visible_all": "X",
+    "theme": "neptune_hurricanes_dark",
+    "theme_root": "/neptune/public/ui5theme/neptune_hurricanes_dark/UI5",
+    "splash_design": "DXP_DEMO_HURRICANES_DARK",
+    "header_width": "Full",
+    "mob_back_color": "transparent",
+    "mob_back_blur": "10px",
+    "back_opa": 1.00,
+    "page_back_opa": 0.00,
+    "page_back_blur": "10px",
+    "app_back_color": "transparent",
+    "app_back_blur": "10px",
+    "back_logon_opa": 0.00,
+    "mob_brand_img": "24C73B67F1442076E10000000ADC9967",
+    "favicon": "22C73B67F1442076E10000000ADC9967",
+    "statusbar_base": "#380006"
+  }
+]

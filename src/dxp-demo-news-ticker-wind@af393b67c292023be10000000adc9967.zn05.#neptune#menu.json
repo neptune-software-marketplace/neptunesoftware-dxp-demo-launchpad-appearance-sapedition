@@ -1,0 +1,29 @@
+[
+  {
+    "guid": "AF393B67C292023BE10000000ADC9967",
+    "name": "dxp-demo-news-ticker-wind",
+    "applid": "NEPTUNE_DEMO_APPEARANCE_IMAGE",
+    "activated": "true",
+    "tile_icon": "sap-icon://fas/wind",
+    "tile_title": "Wind is picking up",
+    "tile_infostate": "None",
+    "sort": "00000",
+    "visible_all": "true",
+    "url_window": "false",
+    "sap_trans_window": "false",
+    "parent": "00000000000000000000000000000000",
+    "category": "00000000000000000000000000000000",
+    "timestamp": 0,
+    "url_alias": "00000000000000000000000000000000",
+    "nav_object": "prom",
+    "nav_action": "ayla",
+    "no_action": "false",
+    "tilegroup": "00000000000000000000000000000000",
+    "action_type": "application",
+    "msgno": "000",
+    "tile_height": "Tiny",
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000",
+    "icon_placement": "AlignLeft"
+  }
+]

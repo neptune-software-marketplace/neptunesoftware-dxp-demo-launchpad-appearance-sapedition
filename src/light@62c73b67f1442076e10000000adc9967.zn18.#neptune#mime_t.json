@@ -1,0 +1,17 @@
+[
+  {
+    "guid": "62C73B67F1442076E10000000ADC9967",
+    "parent": "52C73B67F1442076E10000000ADC9967",
+    "name": "light"
+  },
+  {
+    "guid": "52C73B67F1442076E10000000ADC9967",
+    "parent": "3C3A3B67AE43C975E10000000ADC9967",
+    "name": "icon"
+  },
+  {
+    "guid": "3C3A3B67AE43C975E10000000ADC9967",
+    "parent": "00000000000000000000000000000000",
+    "name": "neptune-demo-appearance"
+  }
+]

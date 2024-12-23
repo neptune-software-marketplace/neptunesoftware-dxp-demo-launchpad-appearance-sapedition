@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "5BB73F678F753A31E10000000ADC9967",
+    "name": "One Image - Title Right Alligened",
+    "descr": "dxp-demo-header-image-storm",
+    "sort": 0,
+    "subtitle": "Right to left header image mask applied",
+    "back_type": "cards",
+    "back_image": "54EA3A671F3FD067E10000000ADC9967",
+    "tiles_row": 99,
+    "visible_all": "X",
+    "back_img_hgt": "313",
+    "back_img_pla": "right center",
+    "head_tab_hgt": "200px",
+    "default_mostused": 0,
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000",
+    "head_text_align": "flex-e"
+  }
+]

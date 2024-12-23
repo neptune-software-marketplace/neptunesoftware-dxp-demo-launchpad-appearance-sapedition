@@ -1,0 +1,66 @@
+[
+  {
+    "name": "horricanes-wallpaper-light.jpg",
+    "parent": "0FC73B67F1442076E10000000ADC9967",
+    "type": "JPG",
+    "file_kb": "    95",
+    "guid": "20C73B67F1442076E10000000ADC9967",
+    "file_name": "layout@0fc73b67f1442076e10000000adc9967.zn18.#neptune#mime@20c73b67f1442076e10000000adc9967.horricanes-wallpaper-light.jpg"
+  },
+  {
+    "name": "hurricanes-wallpaper-dark.jpg",
+    "parent": "0FC73B67F1442076E10000000ADC9967",
+    "type": "JPG",
+    "file_kb": "    87",
+    "guid": "21C73B67F1442076E10000000ADC9967",
+    "file_name": "layout@0fc73b67f1442076e10000000adc9967.zn18.#neptune#mime@21c73b67f1442076e10000000adc9967.hurricanes-wallpaper-dark.jpg"
+  },
+  {
+    "name": "kraken-wallpaper-dark.jpg",
+    "parent": "0FC73B67F1442076E10000000ADC9967",
+    "type": "JPG",
+    "file_kb": "   296",
+    "guid": "26C73B67F1442076E10000000ADC9967",
+    "file_name": "layout@0fc73b67f1442076e10000000adc9967.zn18.#neptune#mime@26c73b67f1442076e10000000adc9967.kraken-wallpaper-dark.jpg"
+  },
+  {
+    "name": "kraken-wallpaper-light.jpg",
+    "parent": "0FC73B67F1442076E10000000ADC9967",
+    "type": "JPG",
+    "file_kb": "   290",
+    "guid": "27C73B67F1442076E10000000ADC9967",
+    "file_name": "layout@0fc73b67f1442076e10000000adc9967.zn18.#neptune#mime@27c73b67f1442076e10000000adc9967.kraken-wallpaper-light.jpg"
+  },
+  {
+    "name": "neptune-connect-hurricanes.svg",
+    "parent": "0FC73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     1",
+    "guid": "22C73B67F1442076E10000000ADC9967",
+    "file_name": "layout@0fc73b67f1442076e10000000adc9967.zn18.#neptune#mime@22c73b67f1442076e10000000adc9967.neptune-connect-hurricanes.svg"
+  },
+  {
+    "name": "neptune-connect-kraken.svg",
+    "parent": "0FC73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     1",
+    "guid": "23C73B67F1442076E10000000ADC9967",
+    "file_name": "layout@0fc73b67f1442076e10000000adc9967.zn18.#neptune#mime@23c73b67f1442076e10000000adc9967.neptune-connect-kraken.svg"
+  },
+  {
+    "name": "neptune-connect-powered-by-dark-white.svg",
+    "parent": "0FC73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     2",
+    "guid": "24C73B67F1442076E10000000ADC9967",
+    "file_name": "layout@0fc73b67f1442076e10000000adc9967.zn18.#neptune#mime@24c73b67f1442076e10000000adc9967.neptune-connect-powered-by-dark-white.svg"
+  },
+  {
+    "name": "neptune-connect-white.svg",
+    "parent": "0FC73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     1",
+    "guid": "25C73B67F1442076E10000000ADC9967",
+    "file_name": "layout@0fc73b67f1442076e10000000adc9967.zn18.#neptune#mime@25c73b67f1442076e10000000adc9967.neptune-connect-white.svg"
+  }
+]

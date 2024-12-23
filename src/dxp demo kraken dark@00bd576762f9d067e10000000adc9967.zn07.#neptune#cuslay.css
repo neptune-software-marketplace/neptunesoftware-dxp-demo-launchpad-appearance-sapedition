@@ -1,0 +1,3 @@
+.nepTileImage {
+    filter: hue-rotate(155deg) brightness(0.75) saturate(.75);
+}

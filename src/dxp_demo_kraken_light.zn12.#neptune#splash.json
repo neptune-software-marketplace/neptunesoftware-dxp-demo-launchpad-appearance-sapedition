@@ -1,0 +1,11 @@
+[
+  {
+    "guid": "DXP_DEMO_KRAKEN_LIGHT",
+    "descr": "DXP Demo Kraken Light",
+    "spinner_color": "#355464",
+    "spinner_type": "Neptune",
+    "spinner_message": "Kraken",
+    "background_image": "27C73B67F1442076E10000000ADC9967",
+    "message_color": "#355464"
+  }
+]

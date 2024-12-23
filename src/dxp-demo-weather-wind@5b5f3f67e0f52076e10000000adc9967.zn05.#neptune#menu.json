@@ -1,0 +1,27 @@
+[
+  {
+    "guid": "5B5F3F67E0F52076E10000000ADC9967",
+    "name": "dxp-demo-weather-wind",
+    "applid": "NEPTUNE_DEMO_APPEARANCE_IMAGE",
+    "activated": "true",
+    "tile_info": "Keep Standing",
+    "tile_title": "Wind",
+    "tile_infostate": "None",
+    "sort": "00000",
+    "visible_all": "true",
+    "url_window": "false",
+    "sap_trans_window": "false",
+    "parent": "00000000000000000000000000000000",
+    "category": "00000000000000000000000000000000",
+    "timestamp": 0,
+    "url_alias": "00000000000000000000000000000000",
+    "no_action": "false",
+    "tilegroup": "00000000000000000000000000000000",
+    "tile_icon_image": "B43C3B67AE43C975E10000000ADC9967",
+    "action_type": "application",
+    "msgno": "000",
+    "tile_icon_imaged": "B43C3B67AE43C975E10000000ADC9967",
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000"
+  }
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="hail" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <circle cx="6" cy="24" r="6" style="fill: #ff9c33;"/>
+  <circle cx="12" cy="45" r="6" style="fill: #ff9c33;"/>
+  <circle cx="28" cy="56" r="6" style="fill: #ff9c33;"/>
+  <circle cx="51" cy="48" r="6" style="fill: #ff9c33;"/>
+  <line x1="11.98" y1="13.23" x2="18.02" y2="2.77" style="fill: none; stroke: #424242; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="35.24" y1="6.21" x2="37.41" y2="2.45" style="fill: none; stroke: #424242; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="18.37" y1="35.43" x2="31.9" y2="11.99" style="fill: none; stroke: #424242; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="56.26" y1="6.14" x2="58.15" y2="2.86" style="fill: none; stroke: #424242; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="34.01" y1="44.68" x2="52.89" y2="11.97" style="fill: none; stroke: #424242; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="55.98" y1="38.23" x2="62.02" y2="27.77" style="fill: none; stroke: #424242; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+</svg>

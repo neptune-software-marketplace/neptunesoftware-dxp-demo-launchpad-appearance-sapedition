@@ -1,0 +1,27 @@
+[
+  {
+    "guid": "00BD576762F9D067E10000000ADC9967",
+    "active": "X",
+    "sort": 2
+  },
+  {
+    "guid": "13F9FB66FAC85A6FE10000000ADC9967",
+    "active": "X",
+    "sort": 5
+  },
+  {
+    "guid": "C48FFB662FF7AC54E10000000ADC9967",
+    "active": "X",
+    "sort": 4
+  },
+  {
+    "guid": "CE865567CF78C208E10000000ADC9967",
+    "active": "X",
+    "sort": 1
+  },
+  {
+    "guid": "NEPTUNE_HORIZON",
+    "active": "X",
+    "sort": 3
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "guid": "16824067C7904860E10000000ADC9967",
+    "name": "dxp-demo-image-spacewalk",
+    "applid": "NEPTUNE_DEMO_APPEARANCE_IMAGE",
+    "activated": "true",
+    "tile_icon": "sap-icon://fas/shuttle-space",
+    "tile_info": "Take a deep breath",
+    "tile_title": "Spacewalk",
+    "tile_infostate": "None",
+    "sort": "00000",
+    "visible_all": "true",
+    "url_window": "false",
+    "sap_trans_window": "false",
+    "parent": "00000000000000000000000000000000",
+    "category": "00000000000000000000000000000000",
+    "tile_footer": "Trust your gut...",
+    "tile_backimage": "493C3B67AE43C975E10000000ADC9967",
+    "timestamp": 0,
+    "url_alias": "00000000000000000000000000000000",
+    "no_action": "false",
+    "tilegroup": "00000000000000000000000000000000",
+    "action_type": "application",
+    "msgno": "000",
+    "tile_back_type": "T",
+    "tile_backimaged": "503C3B67AE43C975E10000000ADC9967",
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "field_id": "00001",
+    "field_name": "HTML5 Document",
+    "field_type": "HTML5 DOC",
+    "field_pos": "00001",
+    "field_parent": "00000",
+    "is_container": "X",
+    "calculate_date": 0,
+    "is_view": "X",
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00002",
+    "field_name": "Resources",
+    "field_type": "RESOURCES",
+    "field_pos": "00011",
+    "field_parent": "00000",
+    "is_container": "X",
+    "calculate_date": 0,
+    "is_view": "X",
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00003",
+    "field_name": "footerLayout",
+    "field_type": "UM5_HBOX",
+    "field_pos": "00002",
+    "field_parent": "00001",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00004",
+    "field_name": "boxLeft",
+    "field_type": "UM5_HBOX",
+    "field_pos": "00003",
+    "field_parent": "00003",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00007",
+    "field_name": "boxMiddle",
+    "field_type": "UM5_HBOX",
+    "field_pos": "00004",
+    "field_parent": "00003",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00008",
+    "field_name": "btnCookies",
+    "field_type": "UM5_BUTTON",
+    "field_pos": "00009",
+    "field_parent": "00007",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00009",
+    "field_name": "boxRight",
+    "field_type": "UM5_HBOX",
+    "field_pos": "00010",
+    "field_parent": "00003",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00012",
+    "field_name": "btnAccessibility",
+    "field_type": "UM5_BUTTON",
+    "field_pos": "00008",
+    "field_parent": "00007",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00013",
+    "field_name": "btnSecurity",
+    "field_type": "UM5_BUTTON",
+    "field_pos": "00007",
+    "field_parent": "00007",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00014",
+    "field_name": "btnPrivacy",
+    "field_type": "UM5_BUTTON",
+    "field_pos": "00006",
+    "field_parent": "00007",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00015",
+    "field_name": "btnLegal",
+    "field_type": "UM5_BUTTON",
+    "field_pos": "00005",
+    "field_parent": "00007",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00016",
+    "field_name": "Javascript",
+    "field_type": "SCRIPT",
+    "field_pos": "00012",
+    "field_parent": "00002",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  }
+]
