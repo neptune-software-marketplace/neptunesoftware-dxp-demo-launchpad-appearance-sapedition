@@ -10,11 +10,6 @@
     "sort": 4
   },
   {
-    "guid": "6979C9609E2B7355E10000000ADC9967",
-    "guid_tile": "0ED64067E2B5725FE10000000ADC9967",
-    "sort": 5
-  },
-  {
     "guid": "75D54067E2B5725FE10000000ADC9967",
     "guid_tile": "0ED64067E2B5725FE10000000ADC9967",
     "sort": 4
@@ -35,12 +30,32 @@
     "sort": 4
   },
   {
+    "guid": "C1BB7667ABD0725FE10000000ADC9967",
+    "guid_tile": "0ED64067E2B5725FE10000000ADC9967",
+    "sort": 4
+  },
+  {
+    "guid": "CCC07167D11E4860E10000000ADC9967",
+    "guid_tile": "0ED64067E2B5725FE10000000ADC9967",
+    "sort": 6
+  },
+  {
     "guid": "D2834067C7904860E10000000ADC9967",
     "guid_tile": "0ED64067E2B5725FE10000000ADC9967",
     "sort": 4
   },
   {
     "guid": "F0844067C7904860E10000000ADC9967",
+    "guid_tile": "0ED64067E2B5725FE10000000ADC9967",
+    "sort": 4
+  },
+  {
+    "guid": "F2436F670AD21366E10000000ADC9967",
+    "guid_tile": "0ED64067E2B5725FE10000000ADC9967",
+    "sort": 6
+  },
+  {
+    "guid": "F4BB7667ABD0725FE10000000ADC9967",
     "guid_tile": "0ED64067E2B5725FE10000000ADC9967",
     "sort": 4
   }

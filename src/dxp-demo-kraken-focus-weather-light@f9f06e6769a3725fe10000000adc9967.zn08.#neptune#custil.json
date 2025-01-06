@@ -1,0 +1,16 @@
+[
+  {
+    "guid": "F9F06E6769A3725FE10000000ADC9967",
+    "name": "dxp-demo-kraken-focus-weather-light",
+    "styleclass": "dxp-demo-focus-weather",
+    "plain_background": "-",
+    "bg_fil_bright": 0.00,
+    "bg_fil_gray": 0.00,
+    "bg_fil_hue": 0.00,
+    "bg_fil_invert": 0.00,
+    "bg_fil_opacity": 0.00,
+    "bg_fil_saturate": 0.00,
+    "tile_icon_image": "9DF16E6769A3725FE10000000ADC9967",
+    "tile_backimage": "00000000000000000000000000000000"
+  }
+]

@@ -5,7 +5,6 @@
     "tile_back": "#420000",
     "tile_border": "hsl(55,100%,13%)",
     "tile_hover": "#600101",
-    "tile_icon": "hsl(54,21%,64%)",
     "tile_border_act": "#5b5201",
     "tile_separator": "hsl(54,21%,64%)",
     "tile_text": "hsl(54,21%,64%)",
@@ -24,6 +23,9 @@
     "bg_fil_hue": 0.00,
     "bg_fil_invert": 0.00,
     "bg_fil_opacity": 0.00,
-    "bg_fil_saturate": 0.00
+    "bg_fil_saturate": 0.00,
+    "tile_icon_color": "hsl(54,21%,64%)",
+    "tile_icon_image": "00000000000000000000000000000000",
+    "tile_backimage": "00000000000000000000000000000000"
   }
 ]

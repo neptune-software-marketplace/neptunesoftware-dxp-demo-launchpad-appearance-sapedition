@@ -1,0 +1,17 @@
+[
+  {
+    "guid": "DDC27167DF19023BE10000000ADC9967",
+    "name": "dxp-demo-hurricanes-dark",
+    "head_color": "#240004",
+    "head_text_clr": "#ff4d61",
+    "subhead_text_clr": "#eeeeee",
+    "head_border_clr": "#ff4d61",
+    "head_border_wdt": "6px",
+    "hd_fil_bright": 0.00,
+    "hd_fil_gray": 0.00,
+    "hd_fil_hue": 0.00,
+    "hd_fil_invert": 0.00,
+    "hd_fil_opacity": 0.00,
+    "hd_fil_saturate": 0.00
+  }
+]

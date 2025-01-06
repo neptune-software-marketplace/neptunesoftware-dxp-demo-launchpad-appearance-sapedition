@@ -4,7 +4,6 @@
     "name": "dxp-demo-menu-header-image",
     "descr": "dxp-demo-menu-header-image",
     "sort": 0,
-    "back_type": "cards",
     "hide_header": "X",
     "tiles_row": 99,
     "visible_all": "X",

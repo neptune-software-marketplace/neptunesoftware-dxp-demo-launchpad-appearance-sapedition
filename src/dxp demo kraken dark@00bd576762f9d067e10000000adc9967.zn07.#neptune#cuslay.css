@@ -1,3 +1,4 @@
-.nepTileImage {
+.nepFCardContainer:not(.dxp-demo-focus-weather) .nepTileImage,
+.nepFCardContainer:not(.dxp-demo-focus-weather) .sapFAvatarImageContain {
     filter: hue-rotate(155deg) brightness(0.75) saturate(.75);
 }

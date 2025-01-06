@@ -8,6 +8,38 @@
     "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@413c3b67ae43c975e10000000adc9967.autumn.jpg"
   },
   {
+    "name": "focus-thunder-hurricanes-dark.svg",
+    "parent": "8F776D67B96DCD12E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     2",
+    "guid": "0EFE6E67319B023BE10000000ADC9967",
+    "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@0efe6e67319b023be10000000adc9967.focus-thunder-hurricanes-dark.svg"
+  },
+  {
+    "name": "focus-thunder-hurricanes-light.svg",
+    "parent": "8F776D67B96DCD12E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     2",
+    "guid": "978D6D67B96DCD12E10000000ADC9967",
+    "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@978d6d67b96dcd12e10000000adc9967.focus-thunder-hurricanes-light.svg"
+  },
+  {
+    "name": "focus-thunder-kraken-dark.svg",
+    "parent": "8F776D67B96DCD12E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     2",
+    "guid": "0FFE6E67319B023BE10000000ADC9967",
+    "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@0ffe6e67319b023be10000000adc9967.focus-thunder-kraken-dark.svg"
+  },
+  {
+    "name": "focus-thunder-kraken-light.svg",
+    "parent": "8F776D67B96DCD12E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     2",
+    "guid": "9DF16E6769A3725FE10000000ADC9967",
+    "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@9df16e6769a3725fe10000000adc9967.focus-thunder-kraken-light.svg"
+  },
+  {
     "name": "fog.svg",
     "parent": "62C73B67F1442076E10000000ADC9967",
     "type": "SVG",
@@ -46,6 +78,22 @@
     "file_kb": "   415",
     "guid": "52EA3A671F3FD067E10000000ADC9967",
     "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@52ea3a671f3fd067e10000000adc9967.grid-light.png"
+  },
+  {
+    "name": "grid-pure-dark.png",
+    "parent": "613A3B67AE43C975E10000000ADC9967",
+    "type": "PNG",
+    "file_kb": "     1",
+    "guid": "A64C7067A70C023BE10000000ADC9967",
+    "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@a64c7067a70c023be10000000adc9967.grid-pure-dark.png"
+  },
+  {
+    "name": "grid-pure-light.png",
+    "parent": "613A3B67AE43C975E10000000ADC9967",
+    "type": "PNG",
+    "file_kb": "     1",
+    "guid": "D771706708003A31E10000000ADC9967",
+    "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@d771706708003a31e10000000adc9967.grid-pure-light.png"
   },
   {
     "name": "hail.svg",

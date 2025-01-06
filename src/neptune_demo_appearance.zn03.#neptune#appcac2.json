@@ -3,6 +3,8 @@
     "enable_notif": "X",
     "tfa_validity": 0,
     "bdc_show_process": "E",
+    "enable_enhance": "X",
+    "enhancement": "NEPTUNE_DEMO_APPEARANCE",
     "pg_patch_version": "000000000000",
     "patch_version": "024100000",
     "footer": "NEPTUNE_DEMO_APPEARANCE_FOOTER",

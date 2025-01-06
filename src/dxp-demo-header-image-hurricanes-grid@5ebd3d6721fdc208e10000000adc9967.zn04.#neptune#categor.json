@@ -5,18 +5,17 @@
     "descr": "dxp-demo-header-image-hurricanes-grid",
     "sort": 0,
     "subtitle": "Left to right header image mask applied",
-    "back_type": "cards",
-    "back_image": "52EA3A671F3FD067E10000000ADC9967",
-    "tiles_row": 99,
+    "back_image": "D771706708003A31E10000000ADC9967",
+    "tiles_row": 0,
     "visible_all": "X",
-    "tiles_pr_row": "More",
-    "back_img_hgt": "180",
+    "back_img_hgt": "22",
     "back_img_pla": "right center",
     "default_mostused": 0,
     "fiori_style": "X",
-    "back_imaged": "51EA3A671F3FD067E10000000ADC9967",
+    "back_imaged": "A64C7067A70C023BE10000000ADC9967",
     "tile_layout": "00000000000000000000000000000000",
     "tile_layout_dark": "00000000000000000000000000000000",
-    "back_drk_hgt": "180"
+    "back_drk_hgt": "22",
+    "force_group_attributes": "X"
   }
 ]

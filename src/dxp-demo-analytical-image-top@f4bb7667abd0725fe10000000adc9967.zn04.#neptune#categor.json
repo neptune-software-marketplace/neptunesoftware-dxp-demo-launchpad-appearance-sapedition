@@ -1,0 +1,15 @@
+[
+  {
+    "guid": "F4BB7667ABD0725FE10000000ADC9967",
+    "name": "Tile Image Top",
+    "descr": "dxp-demo-analytical-image-top",
+    "sort": 0,
+    "subtitle": "All tiles with images added to the top",
+    "tiles_row": 0,
+    "visible_all": "X",
+    "default_mostused": 0,
+    "fiori_style": "X",
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000"
+  }
+]

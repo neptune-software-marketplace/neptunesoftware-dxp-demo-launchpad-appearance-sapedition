@@ -4,13 +4,15 @@
     "name": "dxp-demo-news-stories",
     "descr": "dxp-demo-news-stories",
     "sort": 0,
-    "back_type": "cards",
     "hide_header": "X",
     "styleclass": "nepDxpDemoGridNoPaddingTop",
-    "tiles_row": 99,
+    "tiles_row": 0,
     "visible_all": "X",
     "default_mostused": 0,
     "tile_layout": "00000000000000000000000000000000",
-    "tile_layout_dark": "00000000000000000000000000000000"
+    "tile_layout_dark": "00000000000000000000000000000000",
+    "msg_enable": "X",
+    "msg_text": "<code>dxp-demo-news-stories</code><br>\nTile group section with hidden tile group header. 4 tiles with a tile image aligned at the top. The tile group has a tile layout assigned that adds the <code>sap-icon://nep/value-help</code> to all the tiles.",
+    "msg_action": "/neptune/neptune/cockpit?saml2=disabled&debug#administration-tilegroup&%7B\"id\"%3A\"221E406779104860E10000000ADC9967\"%7D"
   }
 ]

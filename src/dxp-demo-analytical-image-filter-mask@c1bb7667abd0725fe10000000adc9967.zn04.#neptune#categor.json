@@ -1,0 +1,15 @@
+[
+  {
+    "guid": "C1BB7667ABD0725FE10000000ADC9967",
+    "name": "Tile Image Background Filter Mask",
+    "descr": "dxp-demo-analytical-image-filter-mask",
+    "sort": 0,
+    "subtitle": "Background images with top to bottom image mask",
+    "tiles_row": 0,
+    "visible_all": "X",
+    "default_mostused": 0,
+    "fiori_style": "X",
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000"
+  }
+]

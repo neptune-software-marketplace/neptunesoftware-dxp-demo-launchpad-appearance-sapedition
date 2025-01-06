@@ -14,7 +14,6 @@
     "theme": "dxpdemo_kraken_light",
     "theme_root": "/neptune/public/ui5theme/dxpdemo_kraken_light/UI5",
     "splash_design": "DXP_DEMO_KRAKEN_LIGHT",
-    "shell_width": "Full",
     "banner": "DXP_DEMO_SOCIAL",
     "mob_back_color": "transparent",
     "mob_back_blur": "10px",

@@ -1,0 +1,7 @@
+[
+  {
+    "enhancement": "NEPTUNE_DEMO_APPEARANCE",
+    "spot": "AFTER_STARTUP",
+    "activated": "X"
+  }
+]

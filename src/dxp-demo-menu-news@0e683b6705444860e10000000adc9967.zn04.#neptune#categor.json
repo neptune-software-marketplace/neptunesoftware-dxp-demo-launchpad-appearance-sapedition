@@ -3,14 +3,16 @@
     "guid": "0E683B6705444860E10000000ADC9967",
     "descr": "dxp-demo-menu-news",
     "sort": 0,
-    "back_type": "cards",
     "hide_header": "X",
     "styleclass": "nepDxpDemoNews nepDxpDemoGridNoPaddingBottom",
-    "tiles_row": 99,
+    "tiles_row": 0,
     "visible_all": "X",
     "menu_text": "NEWS",
     "default_mostused": 0,
     "tile_layout": "00000000000000000000000000000000",
-    "tile_layout_dark": "00000000000000000000000000000000"
+    "tile_layout_dark": "00000000000000000000000000000000",
+    "msg_enable": "X",
+    "msg_text": "<code>dxp-demo-menu-news</code><br>\nScreen tile group with hidden header. 7 tiles, 1 big 12x8 tile and 6 small 4x1 tiles.\n<ul>\n<li>12x8 tile: The style class <code>nepDxpDemoNewsMaster</code> has been added to the tile, it reverses card content the flex direction, positioning the title & sub title at the tile bottom. A tile layout with a bottom-up image mask, makes the tile title/sub title stand out against the background image.</li>\n<li>4x1: Tiles with a title and icon. Tile layout with 4x1 size and icon placement allign-with-title-left has controls the tile look'n'feel</li>\n</ul>",
+    "msg_action": "/neptune/neptune/cockpit?saml2=disabled&debug#administration-tilegroup&%7B\"id\"%3A\"0E683B6705444860E10000000ADC9967\"%7D"
   }
 ]

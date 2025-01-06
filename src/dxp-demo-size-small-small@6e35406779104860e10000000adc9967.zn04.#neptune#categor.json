@@ -4,16 +4,13 @@
     "name": "Small Small (4x4)",
     "descr": "dxp-demo-size-small-small",
     "sort": 0,
-    "back_type": "cards",
-    "styleclass": "nepDxpDemoSectionTeamsNarrowShort",
+    "styleclass": "nepDxpDemoSectionTeamsNarrowShort dxp-demo-focus-thunder",
     "tiles_row": 99,
     "visible_all": "X",
-    "tiles_pr_row": "More",
     "default_mostused": 0,
     "fiori_style": "X",
     "tile_layout": "00000000000000000000000000000000",
     "tile_layout_dark": "00000000000000000000000000000000",
-    "head_text_align": "center",
     "back_width": "Small",
     "tile_height": "Normal"
   }

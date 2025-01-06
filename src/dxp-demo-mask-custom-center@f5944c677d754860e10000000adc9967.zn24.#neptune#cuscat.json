@@ -9,7 +9,6 @@
     "hd_fil_opacity": 0.00,
     "hd_fil_saturate": 0.00,
     "hd_mask_img": "C",
-    "hd_mask_custom": "radial-gradient(circle, transparent 24%, rgba(0,0,0,1) 75%)",
-    "head_text_align": "center"
+    "hd_mask_custom": "radial-gradient(circle, transparent 24%, rgba(0,0,0,1) 75%)"
   }
 ]

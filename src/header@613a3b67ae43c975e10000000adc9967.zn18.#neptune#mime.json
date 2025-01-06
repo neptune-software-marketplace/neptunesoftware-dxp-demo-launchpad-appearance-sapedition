@@ -16,6 +16,22 @@
     "file_name": "header@613a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@52ea3a671f3fd067e10000000adc9967.grid-light.png"
   },
   {
+    "name": "grid-pure-dark.png",
+    "parent": "613A3B67AE43C975E10000000ADC9967",
+    "type": "PNG",
+    "file_kb": "     1",
+    "guid": "A64C7067A70C023BE10000000ADC9967",
+    "file_name": "header@613a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@a64c7067a70c023be10000000adc9967.grid-pure-dark.png"
+  },
+  {
+    "name": "grid-pure-light.png",
+    "parent": "613A3B67AE43C975E10000000ADC9967",
+    "type": "PNG",
+    "file_kb": "     1",
+    "guid": "D771706708003A31E10000000ADC9967",
+    "file_name": "header@613a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@d771706708003a31e10000000adc9967.grid-pure-light.png"
+  },
+  {
     "name": "storm.jpg",
     "parent": "613A3B67AE43C975E10000000ADC9967",
     "type": "JPG",

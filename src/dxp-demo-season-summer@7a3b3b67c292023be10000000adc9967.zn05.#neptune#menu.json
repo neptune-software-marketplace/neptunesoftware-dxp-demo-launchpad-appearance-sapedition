@@ -3,7 +3,6 @@
     "guid": "7A3B3B67C292023BE10000000ADC9967",
     "name": "dxp-demo-season-summer",
     "activated": "true",
-    "tile_icon": "sap-icon://nep/value-help",
     "tile_title": "But tomorrow may rain, so I’ll follow the sun",
     "tile_infostate": "None",
     "sort": "00000",

@@ -25,6 +25,11 @@
     "name": "light"
   },
   {
+    "guid": "8F776D67B96DCD12E10000000ADC9967",
+    "parent": "52C73B67F1442076E10000000ADC9967",
+    "name": "focus"
+  },
+  {
     "guid": "A4C73B67F1442076E10000000ADC9967",
     "parent": "52C73B67F1442076E10000000ADC9967",
     "name": "dark"
