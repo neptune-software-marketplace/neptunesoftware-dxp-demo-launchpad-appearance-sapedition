@@ -11,6 +11,7 @@
     "default_mostused": 0,
     "fiori_style": "X",
     "tile_layout": "00000000000000000000000000000000",
-    "tile_layout_dark": "00000000000000000000000000000000"
+    "tile_layout_dark": "00000000000000000000000000000000",
+    "navbar_width": "XXSmall"
   }
 ]

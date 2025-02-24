@@ -1,0 +1,12 @@
+[
+  {
+    "version": "0001",
+    "app_type": "A",
+    "title": "Neptune Demo Appearance Image",
+    "library": "5",
+    "ui5_m": "X",
+    "ts_compile_target": "es2016",
+    "origin": "024100001",
+    "sqlite_type": 0
+  }
+]

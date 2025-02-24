@@ -1,0 +1,16 @@
+[
+  {
+    "guid": "CA518067CBFD725FE10000000ADC9967",
+    "descr": "dxp-demo-navbar-1x",
+    "sort": 0,
+    "hide_header": "X",
+    "tiles_row": 99,
+    "incl_fav": "X",
+    "visible_all": "X",
+    "default_mostused": 0,
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000",
+    "back_width": "Skinny",
+    "tile_height": "Tiny"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "field_id": "00008",
+    "version": "0001",
+    "attribute": "fitContainer",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00008",
+    "version": "0001",
+    "attribute": "renderType",
+    "grouping": "Properties",
+    "value": "Bare"
+  },
+  {
+    "field_id": "00009",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Reload Dynamic Data"
+  },
+  {
+    "field_id": "00009",
+    "version": "0001",
+    "attribute": "type",
+    "grouping": "Properties",
+    "value": "Emphasized"
+  },
+  {
+    "field_id": "00009",
+    "version": "0001",
+    "attribute": "width",
+    "grouping": "Properties",
+    "value": "100%"
+  }
+]

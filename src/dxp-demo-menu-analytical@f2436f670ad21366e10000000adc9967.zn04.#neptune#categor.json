@@ -11,6 +11,6 @@
     "default_mostused": 0,
     "tile_layout": "00000000000000000000000000000000",
     "tile_layout_dark": "00000000000000000000000000000000",
-    "sidebar_width": "Medium"
+    "sidebar_fit": "Wrap"
   }
 ]

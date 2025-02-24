@@ -19,10 +19,10 @@
     "tilegroup": "00000000000000000000000000000000",
     "tile_icon_image": "74C73B67F1442076E10000000ADC9967",
     "action_type": "noaction",
-    "fiori_style": "X",
     "msgno": "000",
-    "tile_icon_imaged": "B13C3B67AE43C975E10000000ADC9967",
+    "tile_icon_imaged": "B03C3B67AE43C975E10000000ADC9967",
     "tile_layout": "00000000000000000000000000000000",
-    "tile_layout_dark": "00000000000000000000000000000000"
+    "tile_layout_dark": "00000000000000000000000000000000",
+    "action_custom": "00000000000000000000000000000000"
   }
 ]

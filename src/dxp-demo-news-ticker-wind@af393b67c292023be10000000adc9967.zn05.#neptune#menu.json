@@ -24,6 +24,7 @@
     "tile_height": "Tiny",
     "tile_layout": "00000000000000000000000000000000",
     "tile_layout_dark": "00000000000000000000000000000000",
-    "icon_placement": "AlignLeft"
+    "icon_placement": "AlignLeft",
+    "action_custom": "00000000000000000000000000000000"
   }
 ]

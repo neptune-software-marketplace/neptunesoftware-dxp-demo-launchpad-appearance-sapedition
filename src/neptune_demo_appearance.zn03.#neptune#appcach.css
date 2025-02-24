@@ -4,8 +4,9 @@
 :root .nepDxpDemoSectionPlain {
     --gridMargin: 0;
 }
-.nepTileShort .nepFCardIconAbove {
-    margin-bottom: .5rem;
+.dxp-demo-analytical-content .nepGrid.nepGridMedium,
+.dxp-demo-analytical-content .nepGroupMedium .nepGrid {
+    grid-template-columns: repeat(8, var(--grid8));
 }
 .nepThemeDark .nepDxpDemoCustomStyle .nepFCard.sapFCard .sapFCardSubtitle {
     color: lightgreen;
@@ -16,7 +17,7 @@
 .nepDxpDemoSectionTeamsSkinnyTiny .nepTileTiny .nepTileImage {
     width: auto;
     height: 3.5rem;
-    padding-bottom: .5rem;
+    /* padding-bottom: .5rem; */
 }
 .nepXSmall .nepDxpDemoSectionTeamsSkinnyTiny .nepTileTiny .nepTileImage,
 .nepSmall .nepDxpDemoSectionTeamsSkinnyTiny .nepTileTiny .nepTileImage {

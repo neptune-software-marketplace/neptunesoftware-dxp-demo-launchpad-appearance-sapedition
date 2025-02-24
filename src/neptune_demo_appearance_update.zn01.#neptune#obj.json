@@ -1,0 +1,53 @@
+[
+  {
+    "field_id": "00001",
+    "field_name": "HTML5 Document",
+    "field_type": "HTML5 DOC",
+    "field_pos": "00001",
+    "field_parent": "00000",
+    "is_container": "X",
+    "calculate_date": 0,
+    "is_view": "X",
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00002",
+    "field_name": "Resources",
+    "field_type": "RESOURCES",
+    "field_pos": "00004",
+    "field_parent": "00000",
+    "is_container": "X",
+    "calculate_date": 0,
+    "is_view": "X",
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00007",
+    "field_name": "Javascript",
+    "field_type": "SCRIPT",
+    "field_pos": "00005",
+    "field_parent": "00002",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00008",
+    "field_name": "boxGetLiveData",
+    "field_type": "UM5_FBOX",
+    "field_pos": "00002",
+    "field_parent": "00001",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00009",
+    "field_name": "btnGetLiveData",
+    "field_type": "UM5_BUTTON",
+    "field_pos": "00003",
+    "field_parent": "00008",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  }
+]

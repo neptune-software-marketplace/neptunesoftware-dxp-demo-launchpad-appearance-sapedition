@@ -1,0 +1,457 @@
+[
+  {
+    "field_id": "00005",
+    "version": "0001",
+    "attribute": "setCacheGlobal",
+    "grouping": "Model",
+    "value": "true"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setCustomHeader"
+  },
+  {
+    "field_id": "00007",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentRight"
+  },
+  {
+    "field_id": "00008",
+    "version": "0001",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://jam"
+  },
+  {
+    "field_id": "00009",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setFooter"
+  },
+  {
+    "field_id": "00010",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentRight"
+  },
+  {
+    "field_id": "00011",
+    "version": "0001",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "getOnlineDBUpdate();"
+  },
+  {
+    "field_id": "00011",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Save"
+  },
+  {
+    "field_id": "00012",
+    "version": "0001",
+    "attribute": "editable",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00012",
+    "version": "0001",
+    "attribute": "layout",
+    "grouping": "Properties",
+    "value": "ResponsiveGridLayout"
+  },
+  {
+    "field_id": "00012",
+    "version": "0001",
+    "attribute": "renderType",
+    "grouping": "Properties",
+    "value": "Form"
+  },
+  {
+    "field_id": "00012",
+    "version": "0001",
+    "attribute": "setCacheGlobal",
+    "grouping": "Model",
+    "value": "true"
+  },
+  {
+    "field_id": "00012",
+    "version": "0001",
+    "attribute": "setInitLoad",
+    "grouping": "Model",
+    "value": "online"
+  },
+  {
+    "field_id": "00013",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_TITLE"
+  },
+  {
+    "field_id": "00014",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_TITLE}"
+  },
+  {
+    "field_id": "00015",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_INFO"
+  },
+  {
+    "field_id": "00016",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_INFO}"
+  },
+  {
+    "field_id": "00017",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_FOOTER"
+  },
+  {
+    "field_id": "00018",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_FOOTER}"
+  },
+  {
+    "field_id": "00019",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_NUMBER"
+  },
+  {
+    "field_id": "00020",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_NUMBER}"
+  },
+  {
+    "field_id": "00021",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_UNIT"
+  },
+  {
+    "field_id": "00022",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_UNIT}"
+  },
+  {
+    "field_id": "00023",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_INFOSTATE"
+  },
+  {
+    "field_id": "00024",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_INFOSTATE}"
+  },
+  {
+    "field_id": "00025",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_INDICATOR"
+  },
+  {
+    "field_id": "00026",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_INDICATOR}"
+  },
+  {
+    "field_id": "00027",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_VALUECOLOR"
+  },
+  {
+    "field_id": "00028",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_VALUECOLOR}"
+  },
+  {
+    "field_id": "00029",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_VALUE1"
+  },
+  {
+    "field_id": "00030",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_VALUE1}"
+  },
+  {
+    "field_id": "00031",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_VALUE2"
+  },
+  {
+    "field_id": "00032",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_VALUE2}"
+  },
+  {
+    "field_id": "00033",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_VALUE3"
+  },
+  {
+    "field_id": "00034",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_VALUE3}"
+  },
+  {
+    "field_id": "00035",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_COLOR1"
+  },
+  {
+    "field_id": "00036",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_COLOR1}"
+  },
+  {
+    "field_id": "00037",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_COLOR2"
+  },
+  {
+    "field_id": "00038",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_COLOR2}"
+  },
+  {
+    "field_id": "00039",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_COLOR3"
+  },
+  {
+    "field_id": "00040",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_COLOR3}"
+  },
+  {
+    "field_id": "00041",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_TITLE1"
+  },
+  {
+    "field_id": "00042",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_TITLE1}"
+  },
+  {
+    "field_id": "00043",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_TITLE2"
+  },
+  {
+    "field_id": "00044",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_TITLE2}"
+  },
+  {
+    "field_id": "00045",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_TITLE3"
+  },
+  {
+    "field_id": "00046",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_TITLE3}"
+  },
+  {
+    "field_id": "00047",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_SCALE"
+  },
+  {
+    "field_id": "00048",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_SCALE}"
+  },
+  {
+    "field_id": "00049",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_DETAILS"
+  },
+  {
+    "field_id": "00050",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_DETAILS}"
+  },
+  {
+    "field_id": "00051",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_SIDETITLE1"
+  },
+  {
+    "field_id": "00052",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_SIDETITLE1}"
+  },
+  {
+    "field_id": "00053",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_SIDENUMBER1"
+  },
+  {
+    "field_id": "00054",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_SIDENUMBER1}"
+  },
+  {
+    "field_id": "00055",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_SIDEUNIT1"
+  },
+  {
+    "field_id": "00056",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_SIDEUNIT1}"
+  },
+  {
+    "field_id": "00057",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_SIDETITLE2"
+  },
+  {
+    "field_id": "00058",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_SIDETITLE2}"
+  },
+  {
+    "field_id": "00059",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_SIDENUMBER2"
+  },
+  {
+    "field_id": "00060",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_SIDENUMBER2}"
+  },
+  {
+    "field_id": "00061",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_SIDEUNIT2"
+  },
+  {
+    "field_id": "00062",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_SIDEUNIT2}"
+  },
+  {
+    "field_id": "00063",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "TILE_ICON"
+  },
+  {
+    "field_id": "00064",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{GS_MENU-TILE_ICON}"
+  }
+]
