@@ -1,0 +1,12 @@
+[
+  {
+    "version": "0001",
+    "app_type": "A",
+    "use_css_desktop": "X",
+    "library": "5",
+    "ui5_m": "X",
+    "ts_compile_target": "es2016",
+    "origin": "024110000",
+    "sqlite_type": 0
+  }
+]

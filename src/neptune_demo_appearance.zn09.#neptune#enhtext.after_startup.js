@@ -10,13 +10,13 @@ const btnEnableHelpAppearance = new sap.m.Button(`btnEnableHelpAppearance`, {
         if (this.getText() === "Enable Help") {
             document.documentElement.classList.add("nepDxpDemoHelp");
             this.setText("Disable Help");
-            // sap.n.Shell.loadSidepanel("dxp_demo_appearance_help", {
-            //     tabTitle: "Help"
-            // });
+            sap.n.Shell.loadSidepanel("NEPTUNE_DEMO_APPEARANCE_HELP", {
+                tabTitle: "Help"
+            });
         } else {
             document.documentElement.classList.remove("nepDxpDemoHelp");
             this.setText("Enable Help");
-            // sap.n.Shell.closeSidepanel();
+            sap.n.Shell.closeSidepanel();
         }
     },
 });

@@ -1,0 +1,26 @@
+[
+  {
+    "field_id": "00004",
+    "attribute": "showHeader",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00005",
+    "attribute": "backgroundDesign",
+    "grouping": "Properties",
+    "value": "Solid"
+  },
+  {
+    "field_id": "00005",
+    "attribute": "styleClass",
+    "grouping": "Properties",
+    "value": "nepDxpDemoHelpPanel"
+  },
+  {
+    "field_id": "00005",
+    "attribute": "width",
+    "grouping": "Properties",
+    "value": "calc(100% - 2rem)"
+  }
+]
