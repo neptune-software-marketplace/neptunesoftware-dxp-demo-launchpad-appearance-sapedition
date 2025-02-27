@@ -8,8 +8,8 @@
     "pg_patch_version": "000000000000",
     "patch_version": "024100000",
     "footer": "NEPTUNE_DEMO_APPEARANCE_FOOTER",
-    "layout_light": "26556567B8341366E10000000ADC9967",
-    "layout_dark": "NEPTUNE_HORIZON_DARK",
+    "layout_light": "13F9FB66FAC85A6FE10000000ADC9967",
+    "layout_dark": "C48FFB662FF7AC54E10000000ADC9967",
     "enable_system_theme": "X",
     "csrf_validity": 0
   }

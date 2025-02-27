@@ -7,8 +7,14 @@
     background-color: var(--sapList_Background);
 }
 .nepDxpDemoHelpPanel .sapMTitle {
-    color: var(--sapList_GroupHeaderTextColor);
+    color: var(--sapHighlightColor);
 }
 .nepDxpDemoHelpPanel .sapMText {
-    color: var(--sapList_TextColor);
+    margin-block-start: 0;
+    color: var(--sapTextColor);
+}
+.nepLayout .nepDxpDemoHelpPanel .sapMLnk:not(.sapMLnkDsbl):focus {
+    border-radius: 0;
+    background-color: transparent;
+    color: var(--sapLinkColor);
 }
