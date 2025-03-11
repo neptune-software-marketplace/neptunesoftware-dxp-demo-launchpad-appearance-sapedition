@@ -543,6 +543,7 @@ method numeric.
 
   split me->ajax_value at '||' into lv_timestamp lv_tile_applid_params.
 
+  "Some condition
   if 1 = 2.
     me->server->api_tile_info(
       no_frontend_update = abap_true
@@ -586,7 +587,7 @@ method numeric.
     ls_tile_infox-side_indicator_number2 = abap_true.
     ls_tile_infox-side_indicator_unit2   = abap_true.
 
-    server->api_tile_info(
+    me->server->api_tile_info(
       tile_info  = ls_tile_info
       tile_infox = ls_tile_infox
     ).
