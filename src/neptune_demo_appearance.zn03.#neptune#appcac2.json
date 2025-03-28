@@ -8,6 +8,8 @@
     "pg_patch_version": "000000000000",
     "patch_version": "024100000",
     "footer": "NEPTUNE_DEMO_APPEARANCE_FOOTER",
+    "sapui5_path": "https://ui5.sap.com/1.120.21/resources/sap-ui-core.js",
+    "sapui5_path_version": "1.120.21",
     "layout_light": "13F9FB66FAC85A6FE10000000ADC9967",
     "layout_dark": "C48FFB662FF7AC54E10000000ADC9967",
     "enable_system_theme": "X",
