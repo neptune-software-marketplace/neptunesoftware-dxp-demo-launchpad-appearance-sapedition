@@ -1,5 +1,10 @@
 [
   {
+    "configuration": "INLINE_MENU",
+    "guid": "F2436F670AD21366E10000000ADC9967",
+    "sort": 3
+  },
+  {
     "configuration": "NEPTUNE_DEMO_APPEARANCE",
     "guid": "F2436F670AD21366E10000000ADC9967",
     "sort": 2
