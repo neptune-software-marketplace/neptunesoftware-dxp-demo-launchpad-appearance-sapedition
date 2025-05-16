@@ -8,5 +8,10 @@
     "configuration": "NEPTUNE_DEMO_APPEARANCE",
     "guid": "497D4067C7904860E10000000ADC9967",
     "sort": 4
+  },
+  {
+    "configuration": "QUARTZ",
+    "guid": "497D4067C7904860E10000000ADC9967",
+    "sort": 2
   }
 ]
