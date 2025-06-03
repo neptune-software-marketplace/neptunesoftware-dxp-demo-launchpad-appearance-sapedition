@@ -14,6 +14,7 @@
     "visible_all": "X",
     "global_style": "neptune_demo_appearance.zn03.#neptune#appcach.css",
     "open_apps_header": "X",
+    "active_app_title": "X",
     "horizontal_menu": "X",
     "no_remote_debug": "X",
     "notif_interval": "300",

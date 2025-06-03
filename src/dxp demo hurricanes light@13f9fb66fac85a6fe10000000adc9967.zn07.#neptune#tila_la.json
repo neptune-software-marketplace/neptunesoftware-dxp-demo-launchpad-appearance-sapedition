@@ -2,12 +2,14 @@
   {
     "guid": "13F9FB66FAC85A6FE10000000ADC9967",
     "link": "03A46D67E0E93A31E10000000ADC9967",
-    "sort": 3
+    "sort": 3,
+    "target": "dxp-demo-focus-weather"
   },
   {
     "guid": "13F9FB66FAC85A6FE10000000ADC9967",
     "link": "17236C674B424860E10000000ADC9967",
-    "sort": 2
+    "sort": 2,
+    "target": "dxp-demo-focus-ticker"
   },
   {
     "guid": "13F9FB66FAC85A6FE10000000ADC9967",
