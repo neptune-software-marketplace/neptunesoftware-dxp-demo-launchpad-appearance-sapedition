@@ -2,7 +2,7 @@
   {
     "guid": "AF393B67C292023BE10000000ADC9967",
     "name": "dxp-demo-news-ticker-wind",
-    "applid": "NEPTUNE_DEMO_APPEARANCE_IMAGE",
+    "applid": "NEPTUNE_DEMO_ICON_EXPLORER",
     "activated": "true",
     "tile_icon": "sap-icon://fas/wind",
     "tile_title": "Wind is picking up",

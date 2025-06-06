@@ -1,0 +1,26 @@
+[
+  {
+    "field_id": "00004",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Moje Icon Client"
+  },
+  {
+    "field_id": "00004",
+    "attribute": "titleAlignment",
+    "grouping": "Properties",
+    "value": "Center"
+  },
+  {
+    "field_id": "00005",
+    "attribute": "fitContainer",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00005",
+    "attribute": "renderType",
+    "grouping": "Properties",
+    "value": "Bare"
+  }
+]

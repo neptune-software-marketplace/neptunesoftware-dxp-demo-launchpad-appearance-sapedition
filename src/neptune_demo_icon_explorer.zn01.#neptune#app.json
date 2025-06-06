@@ -1,0 +1,11 @@
+[
+  {
+    "app_type": "A",
+    "title": "Neptune Demo Icon Explorer",
+    "library": "5",
+    "ui5_m": "X",
+    "ts_compile_target": "es2016",
+    "origin": "000024111",
+    "sqlite_type": 0
+  }
+]
