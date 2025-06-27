@@ -3,5 +3,10 @@
     "configuration": "NEPTUNE_DEMO_APPEARANCE",
     "guid": "DC04406779CE2076E10000000ADC9967",
     "sort": 9
+  },
+  {
+    "configuration": "UI5_136_CDN",
+    "guid": "DC04406779CE2076E10000000ADC9967",
+    "sort": 4
   }
 ]

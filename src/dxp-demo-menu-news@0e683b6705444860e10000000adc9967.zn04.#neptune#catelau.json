@@ -13,5 +13,10 @@
     "configuration": "QUARTZ",
     "guid": "0E683B6705444860E10000000ADC9967",
     "sort": 1
+  },
+  {
+    "configuration": "UI5_136_CDN",
+    "guid": "0E683B6705444860E10000000ADC9967",
+    "sort": 1
   }
 ]

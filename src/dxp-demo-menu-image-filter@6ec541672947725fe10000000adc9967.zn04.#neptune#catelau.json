@@ -8,5 +8,10 @@
     "configuration": "NEPTUNE_DEMO_APPEARANCE",
     "guid": "6EC541672947725FE10000000ADC9967",
     "sort": 8
+  },
+  {
+    "configuration": "UI5_136_CDN",
+    "guid": "6EC541672947725FE10000000ADC9967",
+    "sort": 2
   }
 ]
