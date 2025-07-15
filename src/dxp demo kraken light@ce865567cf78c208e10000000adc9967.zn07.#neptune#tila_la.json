@@ -2,7 +2,8 @@
   {
     "guid": "CE865567CF78C208E10000000ADC9967",
     "link": "831D6C674B424860E10000000ADC9967",
-    "sort": 3
+    "sort": 3,
+    "target": "dxp-demo-focus-ticker"
   },
   {
     "guid": "CE865567CF78C208E10000000ADC9967",
@@ -17,6 +18,7 @@
   {
     "guid": "CE865567CF78C208E10000000ADC9967",
     "link": "F9F06E6769A3725FE10000000ADC9967",
-    "sort": 4
+    "sort": 4,
+    "target": "dxp-demo-focus-weather"
   }
 ]
