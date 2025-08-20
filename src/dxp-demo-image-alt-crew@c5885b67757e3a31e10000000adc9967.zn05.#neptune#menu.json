@@ -20,6 +20,7 @@
     "url_alias": "00000000000000000000000000000000",
     "no_action": "false",
     "tilegroup": "00000000000000000000000000000000",
+    "back_width": "Small",
     "action_type": "application",
     "msgno": "000",
     "tile_back_type": "T",

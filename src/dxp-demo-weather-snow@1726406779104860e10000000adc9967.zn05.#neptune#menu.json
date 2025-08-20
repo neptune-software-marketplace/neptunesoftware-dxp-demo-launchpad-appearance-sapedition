@@ -17,6 +17,7 @@
     "url_alias": "00000000000000000000000000000000",
     "no_action": "false",
     "tilegroup": "00000000000000000000000000000000",
+    "back_width": "Small",
     "tile_icon_image": "76C73B67F1442076E10000000ADC9967",
     "action_type": "noaction",
     "fiori_style": "X",

@@ -19,6 +19,7 @@
     "no_action": "false",
     "styleclass": "dxp-demo-focus-weather",
     "tilegroup": "00000000000000000000000000000000",
+    "back_width": "Small",
     "tile_icon_image": "78C73B67F1442076E10000000ADC9967",
     "action_type": "application",
     "msgno": "000",
