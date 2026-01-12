@@ -4,454 +4,519 @@
     "version": "0001",
     "attribute": "setCacheGlobal",
     "grouping": "Model",
-    "value": "true"
+    "value": "true",
+    "cardinality": 0
   },
   {
     "field_id": "00006",
     "version": "0001",
     "attribute": "position",
     "grouping": "Parent",
-    "value": "setCustomHeader"
+    "value": "setCustomHeader",
+    "cardinality": 0
   },
   {
     "field_id": "00007",
     "version": "0001",
     "attribute": "position",
     "grouping": "Parent",
-    "value": "ContentRight"
+    "value": "ContentRight",
+    "cardinality": 0
   },
   {
     "field_id": "00008",
     "version": "0001",
     "attribute": "icon",
     "grouping": "Properties",
-    "value": "sap-icon://jam"
+    "value": "sap-icon://jam",
+    "cardinality": 0
   },
   {
     "field_id": "00009",
     "version": "0001",
     "attribute": "position",
     "grouping": "Parent",
-    "value": "setFooter"
+    "value": "setFooter",
+    "cardinality": 0
   },
   {
     "field_id": "00010",
     "version": "0001",
     "attribute": "position",
     "grouping": "Parent",
-    "value": "ContentRight"
+    "value": "ContentRight",
+    "cardinality": 0
   },
   {
     "field_id": "00011",
     "version": "0001",
     "attribute": "press",
     "grouping": "Events",
-    "value": "getOnlineDBUpdate();"
+    "value": "getOnlineDBUpdate();",
+    "cardinality": 0
   },
   {
     "field_id": "00011",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "Save"
+    "value": "Save",
+    "cardinality": 0
   },
   {
     "field_id": "00012",
     "version": "0001",
     "attribute": "editable",
     "grouping": "Properties",
-    "value": "true"
+    "value": "true",
+    "cardinality": 0
   },
   {
     "field_id": "00012",
     "version": "0001",
     "attribute": "layout",
     "grouping": "Properties",
-    "value": "ResponsiveGridLayout"
+    "value": "ResponsiveGridLayout",
+    "cardinality": 0
   },
   {
     "field_id": "00012",
     "version": "0001",
     "attribute": "renderType",
     "grouping": "Properties",
-    "value": "Form"
+    "value": "Form",
+    "cardinality": 0
   },
   {
     "field_id": "00012",
     "version": "0001",
     "attribute": "setCacheGlobal",
     "grouping": "Model",
-    "value": "true"
+    "value": "true",
+    "cardinality": 0
   },
   {
     "field_id": "00012",
     "version": "0001",
     "attribute": "setInitLoad",
     "grouping": "Model",
-    "value": "online"
+    "value": "online",
+    "cardinality": 0
   },
   {
     "field_id": "00013",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_TITLE"
+    "value": "TILE_TITLE",
+    "cardinality": 0
   },
   {
     "field_id": "00014",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_TITLE}"
+    "value": "{GS_MENU-TILE_TITLE}",
+    "cardinality": 0
   },
   {
     "field_id": "00015",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_INFO"
+    "value": "TILE_INFO",
+    "cardinality": 0
   },
   {
     "field_id": "00016",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_INFO}"
+    "value": "{GS_MENU-TILE_INFO}",
+    "cardinality": 0
   },
   {
     "field_id": "00017",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_FOOTER"
+    "value": "TILE_FOOTER",
+    "cardinality": 0
   },
   {
     "field_id": "00018",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_FOOTER}"
+    "value": "{GS_MENU-TILE_FOOTER}",
+    "cardinality": 0
   },
   {
     "field_id": "00019",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_NUMBER"
+    "value": "TILE_NUMBER",
+    "cardinality": 0
   },
   {
     "field_id": "00020",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_NUMBER}"
+    "value": "{GS_MENU-TILE_NUMBER}",
+    "cardinality": 0
   },
   {
     "field_id": "00021",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_UNIT"
+    "value": "TILE_UNIT",
+    "cardinality": 0
   },
   {
     "field_id": "00022",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_UNIT}"
+    "value": "{GS_MENU-TILE_UNIT}",
+    "cardinality": 0
   },
   {
     "field_id": "00023",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_INFOSTATE"
+    "value": "TILE_INFOSTATE",
+    "cardinality": 0
   },
   {
     "field_id": "00024",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_INFOSTATE}"
+    "value": "{GS_MENU-TILE_INFOSTATE}",
+    "cardinality": 0
   },
   {
     "field_id": "00025",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_INDICATOR"
+    "value": "TILE_INDICATOR",
+    "cardinality": 0
   },
   {
     "field_id": "00026",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_INDICATOR}"
+    "value": "{GS_MENU-TILE_INDICATOR}",
+    "cardinality": 0
   },
   {
     "field_id": "00027",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_VALUECOLOR"
+    "value": "TILE_VALUECOLOR",
+    "cardinality": 0
   },
   {
     "field_id": "00028",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_VALUECOLOR}"
+    "value": "{GS_MENU-TILE_VALUECOLOR}",
+    "cardinality": 0
   },
   {
     "field_id": "00029",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_VALUE1"
+    "value": "TILE_VALUE1",
+    "cardinality": 0
   },
   {
     "field_id": "00030",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_VALUE1}"
+    "value": "{GS_MENU-TILE_VALUE1}",
+    "cardinality": 0
   },
   {
     "field_id": "00031",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_VALUE2"
+    "value": "TILE_VALUE2",
+    "cardinality": 0
   },
   {
     "field_id": "00032",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_VALUE2}"
+    "value": "{GS_MENU-TILE_VALUE2}",
+    "cardinality": 0
   },
   {
     "field_id": "00033",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_VALUE3"
+    "value": "TILE_VALUE3",
+    "cardinality": 0
   },
   {
     "field_id": "00034",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_VALUE3}"
+    "value": "{GS_MENU-TILE_VALUE3}",
+    "cardinality": 0
   },
   {
     "field_id": "00035",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_COLOR1"
+    "value": "TILE_COLOR1",
+    "cardinality": 0
   },
   {
     "field_id": "00036",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_COLOR1}"
+    "value": "{GS_MENU-TILE_COLOR1}",
+    "cardinality": 0
   },
   {
     "field_id": "00037",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_COLOR2"
+    "value": "TILE_COLOR2",
+    "cardinality": 0
   },
   {
     "field_id": "00038",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_COLOR2}"
+    "value": "{GS_MENU-TILE_COLOR2}",
+    "cardinality": 0
   },
   {
     "field_id": "00039",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_COLOR3"
+    "value": "TILE_COLOR3",
+    "cardinality": 0
   },
   {
     "field_id": "00040",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_COLOR3}"
+    "value": "{GS_MENU-TILE_COLOR3}",
+    "cardinality": 0
   },
   {
     "field_id": "00041",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_TITLE1"
+    "value": "TILE_TITLE1",
+    "cardinality": 0
   },
   {
     "field_id": "00042",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_TITLE1}"
+    "value": "{GS_MENU-TILE_TITLE1}",
+    "cardinality": 0
   },
   {
     "field_id": "00043",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_TITLE2"
+    "value": "TILE_TITLE2",
+    "cardinality": 0
   },
   {
     "field_id": "00044",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_TITLE2}"
+    "value": "{GS_MENU-TILE_TITLE2}",
+    "cardinality": 0
   },
   {
     "field_id": "00045",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_TITLE3"
+    "value": "TILE_TITLE3",
+    "cardinality": 0
   },
   {
     "field_id": "00046",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_TITLE3}"
+    "value": "{GS_MENU-TILE_TITLE3}",
+    "cardinality": 0
   },
   {
     "field_id": "00047",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_SCALE"
+    "value": "TILE_SCALE",
+    "cardinality": 0
   },
   {
     "field_id": "00048",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_SCALE}"
+    "value": "{GS_MENU-TILE_SCALE}",
+    "cardinality": 0
   },
   {
     "field_id": "00049",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_DETAILS"
+    "value": "TILE_DETAILS",
+    "cardinality": 0
   },
   {
     "field_id": "00050",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_DETAILS}"
+    "value": "{GS_MENU-TILE_DETAILS}",
+    "cardinality": 0
   },
   {
     "field_id": "00051",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_SIDETITLE1"
+    "value": "TILE_SIDETITLE1",
+    "cardinality": 0
   },
   {
     "field_id": "00052",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_SIDETITLE1}"
+    "value": "{GS_MENU-TILE_SIDETITLE1}",
+    "cardinality": 0
   },
   {
     "field_id": "00053",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_SIDENUMBER1"
+    "value": "TILE_SIDENUMBER1",
+    "cardinality": 0
   },
   {
     "field_id": "00054",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_SIDENUMBER1}"
+    "value": "{GS_MENU-TILE_SIDENUMBER1}",
+    "cardinality": 0
   },
   {
     "field_id": "00055",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_SIDEUNIT1"
+    "value": "TILE_SIDEUNIT1",
+    "cardinality": 0
   },
   {
     "field_id": "00056",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_SIDEUNIT1}"
+    "value": "{GS_MENU-TILE_SIDEUNIT1}",
+    "cardinality": 0
   },
   {
     "field_id": "00057",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_SIDETITLE2"
+    "value": "TILE_SIDETITLE2",
+    "cardinality": 0
   },
   {
     "field_id": "00058",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_SIDETITLE2}"
+    "value": "{GS_MENU-TILE_SIDETITLE2}",
+    "cardinality": 0
   },
   {
     "field_id": "00059",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_SIDENUMBER2"
+    "value": "TILE_SIDENUMBER2",
+    "cardinality": 0
   },
   {
     "field_id": "00060",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_SIDENUMBER2}"
+    "value": "{GS_MENU-TILE_SIDENUMBER2}",
+    "cardinality": 0
   },
   {
     "field_id": "00061",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_SIDEUNIT2"
+    "value": "TILE_SIDEUNIT2",
+    "cardinality": 0
   },
   {
     "field_id": "00062",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_SIDEUNIT2}"
+    "value": "{GS_MENU-TILE_SIDEUNIT2}",
+    "cardinality": 0
   },
   {
     "field_id": "00063",
     "version": "0001",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "TILE_ICON"
+    "value": "TILE_ICON",
+    "cardinality": 0
   },
   {
     "field_id": "00064",
     "version": "0001",
     "attribute": "value",
     "grouping": "Properties",
-    "value": "{GS_MENU-TILE_ICON}"
+    "value": "{GS_MENU-TILE_ICON}",
+    "cardinality": 0
   }
 ]

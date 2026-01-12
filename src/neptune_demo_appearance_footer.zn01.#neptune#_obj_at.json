@@ -4,35 +4,40 @@
     "version": "0001",
     "attribute": "fitContainer",
     "grouping": "Properties",
-    "value": "true"
+    "value": "true",
+    "cardinality": 0
   },
   {
     "field_id": "00003",
     "version": "0001",
     "attribute": "justifyContent",
     "grouping": "Properties",
-    "value": "SpaceBetween"
+    "value": "SpaceBetween",
+    "cardinality": 0
   },
   {
     "field_id": "00003",
     "version": "0001",
     "attribute": "renderType",
     "grouping": "Properties",
-    "value": "Bare"
+    "value": "Bare",
+    "cardinality": 0
   },
   {
     "field_id": "00004",
     "version": "0001",
     "attribute": "renderType",
     "grouping": "Properties",
-    "value": "Bare"
+    "value": "Bare",
+    "cardinality": 0
   },
   {
     "field_id": "00008",
     "version": "0001",
     "attribute": "press",
     "grouping": "Events",
-    "value": "Anonymous Function"
+    "value": "Anonymous Function",
+    "cardinality": 0
   },
   {
     "field_id": "00008",
@@ -41,14 +46,16 @@
     "grouping": "Properties",
     "value": "{i18n>cookies}",
     "binding_path": "I18N_APP|cookies",
-    "bind_build_origin": "MANUAL"
+    "bind_build_origin": "MANUAL",
+    "cardinality": 0
   },
   {
     "field_id": "00012",
     "version": "0001",
     "attribute": "press",
     "grouping": "Events",
-    "value": "Anonymous Function"
+    "value": "Anonymous Function",
+    "cardinality": 0
   },
   {
     "field_id": "00012",
@@ -57,14 +64,16 @@
     "grouping": "Properties",
     "value": "{i18n>accessibility}",
     "binding_path": "I18N_APP|accessibility",
-    "bind_build_origin": "MANUAL"
+    "bind_build_origin": "MANUAL",
+    "cardinality": 0
   },
   {
     "field_id": "00013",
     "version": "0001",
     "attribute": "press",
     "grouping": "Events",
-    "value": "Anonymous Function"
+    "value": "Anonymous Function",
+    "cardinality": 0
   },
   {
     "field_id": "00013",
@@ -73,14 +82,16 @@
     "grouping": "Properties",
     "value": "{i18n>security}",
     "binding_path": "I18N_APP|security",
-    "bind_build_origin": "MANUAL"
+    "bind_build_origin": "MANUAL",
+    "cardinality": 0
   },
   {
     "field_id": "00014",
     "version": "0001",
     "attribute": "press",
     "grouping": "Events",
-    "value": "Anonymous Function"
+    "value": "Anonymous Function",
+    "cardinality": 0
   },
   {
     "field_id": "00014",
@@ -89,14 +100,16 @@
     "grouping": "Properties",
     "value": "{i18n>privacy}",
     "binding_path": "I18N_APP|privacy",
-    "bind_build_origin": "MANUAL"
+    "bind_build_origin": "MANUAL",
+    "cardinality": 0
   },
   {
     "field_id": "00015",
     "version": "0001",
     "attribute": "press",
     "grouping": "Events",
-    "value": "Anonymous Function"
+    "value": "Anonymous Function",
+    "cardinality": 0
   },
   {
     "field_id": "00015",
@@ -105,6 +118,7 @@
     "grouping": "Properties",
     "value": "{i18n>legal}",
     "binding_path": "I18N_APP|legal",
-    "bind_build_origin": "TREE_SEL"
+    "bind_build_origin": "TREE_SEL",
+    "cardinality": 0
   }
 ]

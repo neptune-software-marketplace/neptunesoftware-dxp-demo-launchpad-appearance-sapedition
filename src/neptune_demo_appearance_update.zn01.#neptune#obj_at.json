@@ -3,30 +3,35 @@
     "field_id": "00008",
     "attribute": "fitContainer",
     "grouping": "Properties",
-    "value": "true"
+    "value": "true",
+    "cardinality": 0
   },
   {
     "field_id": "00008",
     "attribute": "renderType",
     "grouping": "Properties",
-    "value": "Bare"
+    "value": "Bare",
+    "cardinality": 0
   },
   {
     "field_id": "00009",
     "attribute": "text",
     "grouping": "Properties",
-    "value": "Reload Dynamic Data"
+    "value": "Reload Dynamic Data",
+    "cardinality": 0
   },
   {
     "field_id": "00009",
     "attribute": "type",
     "grouping": "Properties",
-    "value": "Emphasized"
+    "value": "Emphasized",
+    "cardinality": 0
   },
   {
     "field_id": "00009",
     "attribute": "width",
     "grouping": "Properties",
-    "value": "100%"
+    "value": "100%",
+    "cardinality": 0
   }
 ]

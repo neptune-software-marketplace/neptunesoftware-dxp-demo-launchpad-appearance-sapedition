@@ -3,24 +3,28 @@
     "field_id": "00004",
     "attribute": "showHeader",
     "grouping": "Properties",
-    "value": "false"
+    "value": "false",
+    "cardinality": 0
   },
   {
     "field_id": "00005",
     "attribute": "backgroundDesign",
     "grouping": "Properties",
-    "value": "Solid"
+    "value": "Solid",
+    "cardinality": 0
   },
   {
     "field_id": "00005",
     "attribute": "styleClass",
     "grouping": "Properties",
-    "value": "nepDxpDemoHelpPanel"
+    "value": "nepDxpDemoHelpPanel",
+    "cardinality": 0
   },
   {
     "field_id": "00005",
     "attribute": "width",
     "grouping": "Properties",
-    "value": "calc(100% - 2rem)"
+    "value": "calc(100% - 2rem)",
+    "cardinality": 0
   }
 ]

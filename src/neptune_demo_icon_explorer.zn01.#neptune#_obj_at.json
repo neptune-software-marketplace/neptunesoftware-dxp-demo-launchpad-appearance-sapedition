@@ -4,27 +4,31 @@
     "version": "0001",
     "attribute": "title",
     "grouping": "Properties",
-    "value": "Moje Icon Client"
+    "value": "Moje Icon Client",
+    "cardinality": 0
   },
   {
     "field_id": "00004",
     "version": "0001",
     "attribute": "titleAlignment",
     "grouping": "Properties",
-    "value": "Center"
+    "value": "Center",
+    "cardinality": 0
   },
   {
     "field_id": "00005",
     "version": "0001",
     "attribute": "fitContainer",
     "grouping": "Properties",
-    "value": "true"
+    "value": "true",
+    "cardinality": 0
   },
   {
     "field_id": "00005",
     "version": "0001",
     "attribute": "renderType",
     "grouping": "Properties",
-    "value": "Bare"
+    "value": "Bare",
+    "cardinality": 0
   }
 ]
