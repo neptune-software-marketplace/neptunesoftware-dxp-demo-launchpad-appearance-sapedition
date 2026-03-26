@@ -111,7 +111,7 @@ CLASS ZCL_NEPTUNE_DEMO_APPEARANCE IMPLEMENTATION.
 
           return-status_code = 501.
           return-status_text = 'Not Implemented'.
-          message e002(/neptune/xhr) with ajax_id into return-response_text.
+          message e002(/neptune/xhr) into return-response_text.
 
       endtry.
 
