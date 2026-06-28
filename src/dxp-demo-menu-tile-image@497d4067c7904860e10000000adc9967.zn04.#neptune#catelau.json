@@ -1,5 +1,10 @@
 [
   {
+    "configuration": "GROUPS_IN_GROUPS",
+    "guid": "497D4067C7904860E10000000ADC9967",
+    "sort": 8
+  },
+  {
     "configuration": "INLINE_MENU",
     "guid": "497D4067C7904860E10000000ADC9967",
     "sort": 7
@@ -8,6 +13,11 @@
     "configuration": "NEPTUNE_DEMO_APPEARANCE",
     "guid": "497D4067C7904860E10000000ADC9967",
     "sort": 4
+  },
+  {
+    "configuration": "NESTED",
+    "guid": "497D4067C7904860E10000000ADC9967",
+    "sort": 9
   },
   {
     "configuration": "QUARTZ",
