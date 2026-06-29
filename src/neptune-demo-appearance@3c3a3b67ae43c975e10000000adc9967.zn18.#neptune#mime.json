@@ -168,6 +168,14 @@
     "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@22c73b67f1442076e10000000adc9967.neptune-connect-hurricanes.svg"
   },
   {
+    "name": "neptune-connect-kraken-splash.svg",
+    "parent": "0FC73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     1",
+    "guid": "184B416A2D05F33EE10000000ADC9967",
+    "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@184b416a2d05f33ee10000000adc9967.neptune-connect-kraken-splash.svg"
+  },
+  {
     "name": "neptune-connect-kraken.svg",
     "parent": "0FC73B67F1442076E10000000ADC9967",
     "type": "SVG",
@@ -182,6 +190,14 @@
     "file_kb": "     2",
     "guid": "24C73B67F1442076E10000000ADC9967",
     "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@24c73b67f1442076e10000000adc9967.neptune-connect-powered-by-dark-white.svg"
+  },
+  {
+    "name": "neptune-connect-splash.svg",
+    "parent": "0FC73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     1",
+    "guid": "3EBF416A6718F23EE10000000ADC9967",
+    "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@3ebf416a6718f23ee10000000adc9967.neptune-connect-splash.svg"
   },
   {
     "name": "neptune-connect-white.svg",
