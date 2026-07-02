@@ -168,6 +168,22 @@
     "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@22c73b67f1442076e10000000adc9967.neptune-connect-hurricanes.svg"
   },
   {
+    "name": "neptune-connect-kraken-light.svg",
+    "parent": "0FC73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     1",
+    "guid": "15F0446A64C7F23EE10000000ADC9967",
+    "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@15f0446a64c7f23ee10000000adc9967.neptune-connect-kraken-light.svg"
+  },
+  {
+    "name": "neptune-connect-kraken-splash-light.svg",
+    "parent": "0FC73B67F1442076E10000000ADC9967",
+    "type": "SVG",
+    "file_kb": "     1",
+    "guid": "14F0446A64C7F23EE10000000ADC9967",
+    "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@14f0446a64c7f23ee10000000adc9967.neptune-connect-kraken-splash-light.svg"
+  },
+  {
     "name": "neptune-connect-kraken-splash.svg",
     "parent": "0FC73B67F1442076E10000000ADC9967",
     "type": "SVG",
@@ -270,6 +286,22 @@
     "file_kb": "    68",
     "guid": "483C3B67AE43C975E10000000ADC9967",
     "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@483c3b67ae43c975e10000000adc9967.satellite.jpg"
+  },
+  {
+    "name": "seatle-kraken-splash-300.png",
+    "parent": "0FC73B67F1442076E10000000ADC9967",
+    "type": "PNG",
+    "file_kb": "    46",
+    "guid": "CCA8436AB631F13EE10000000ADC9967",
+    "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@cca8436ab631f13ee10000000adc9967.seatle-kraken-splash-300.png"
+  },
+  {
+    "name": "seatle-kraken-splash.png",
+    "parent": "0FC73B67F1442076E10000000ADC9967",
+    "type": "PNG",
+    "file_kb": "   117",
+    "guid": "AD65436A3FAD1A74E10000000ADC9967",
+    "file_name": "neptune-demo-appearance@3c3a3b67ae43c975e10000000adc9967.zn18.#neptune#mime@ad65436a3fad1a74e10000000adc9967.seatle-kraken-splash.png"
   },
   {
     "name": "snow.svg",
