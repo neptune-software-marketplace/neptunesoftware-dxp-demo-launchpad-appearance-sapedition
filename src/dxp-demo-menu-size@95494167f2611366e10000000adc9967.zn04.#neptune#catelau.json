@@ -1,5 +1,15 @@
 [
   {
+    "configuration": "123123",
+    "guid": "95494167F2611366E10000000ADC9967",
+    "sort": 16
+  },
+  {
+    "configuration": "COMNEPTUNEQAMARAPPTEST",
+    "guid": "95494167F2611366E10000000ADC9967",
+    "sort": 16
+  },
+  {
     "configuration": "NEPTUNE_DEMO_APPEARANCE",
     "guid": "95494167F2611366E10000000ADC9967",
     "sort": 10

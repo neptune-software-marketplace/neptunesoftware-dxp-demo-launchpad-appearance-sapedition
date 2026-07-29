@@ -1,5 +1,15 @@
 [
   {
+    "configuration": "123123",
+    "guid": "CCC07167D11E4860E10000000ADC9967",
+    "sort": 14
+  },
+  {
+    "configuration": "COMNEPTUNEQAMARAPPTEST",
+    "guid": "CCC07167D11E4860E10000000ADC9967",
+    "sort": 14
+  },
+  {
     "configuration": "INLINE_MENU",
     "guid": "CCC07167D11E4860E10000000ADC9967",
     "sort": 6
