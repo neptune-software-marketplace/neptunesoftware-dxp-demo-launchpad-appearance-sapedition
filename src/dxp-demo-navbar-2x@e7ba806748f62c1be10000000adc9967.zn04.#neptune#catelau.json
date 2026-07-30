@@ -8,5 +8,10 @@
     "configuration": "COMNEPTUNEQAMARAPPTEST",
     "guid": "E7BA806748F62C1BE10000000ADC9967",
     "sort": 21
+  },
+  {
+    "configuration": "MARLAUNCH",
+    "guid": "E7BA806748F62C1BE10000000ADC9967",
+    "sort": 91
   }
 ]

@@ -10,6 +10,11 @@
     "sort": 16
   },
   {
+    "configuration": "MARLAUNCH",
+    "guid": "95494167F2611366E10000000ADC9967",
+    "sort": 86
+  },
+  {
     "configuration": "NEPTUNE_DEMO_APPEARANCE",
     "guid": "95494167F2611366E10000000ADC9967",
     "sort": 10

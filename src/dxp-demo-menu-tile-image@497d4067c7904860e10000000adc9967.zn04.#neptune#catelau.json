@@ -20,6 +20,11 @@
     "sort": 7
   },
   {
+    "configuration": "MARLAUNCH",
+    "guid": "497D4067C7904860E10000000ADC9967",
+    "sort": 88
+  },
+  {
     "configuration": "NEPTUNE_DEMO_APPEARANCE",
     "guid": "497D4067C7904860E10000000ADC9967",
     "sort": 4
@@ -28,6 +33,11 @@
     "configuration": "NESTED",
     "guid": "497D4067C7904860E10000000ADC9967",
     "sort": 9
+  },
+  {
+    "configuration": "PROM_BELIZE",
+    "guid": "497D4067C7904860E10000000ADC9967",
+    "sort": 4
   },
   {
     "configuration": "QUARTZ",

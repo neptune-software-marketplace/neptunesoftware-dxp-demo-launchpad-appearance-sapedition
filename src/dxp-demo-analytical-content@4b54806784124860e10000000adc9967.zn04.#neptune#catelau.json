@@ -15,8 +15,18 @@
     "sort": 6
   },
   {
+    "configuration": "MARLAUNCH",
+    "guid": "4B54806784124860E10000000ADC9967",
+    "sort": 79
+  },
+  {
     "configuration": "NESTED",
     "guid": "4B54806784124860E10000000ADC9967",
     "sort": 7
+  },
+  {
+    "configuration": "PROM_BELIZE",
+    "guid": "4B54806784124860E10000000ADC9967",
+    "sort": 2
   }
 ]

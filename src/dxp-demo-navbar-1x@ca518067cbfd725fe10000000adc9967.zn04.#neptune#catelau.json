@@ -8,5 +8,10 @@
     "configuration": "COMNEPTUNEQAMARAPPTEST",
     "guid": "CA518067CBFD725FE10000000ADC9967",
     "sort": 20
+  },
+  {
+    "configuration": "MARLAUNCH",
+    "guid": "CA518067CBFD725FE10000000ADC9967",
+    "sort": 90
   }
 ]
